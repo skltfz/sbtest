@@ -30,8 +30,10 @@ public class SbtestazureApplication {
                         font-family: Arial, sans-serif;
                         margin: 20px;
                       }
-                      h2 {
+                      h1 {
                         text-align: center;
+                      }
+                      h2 {
                         font-style: italic;
                         text-decoration: underline;
                       }
