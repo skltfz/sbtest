@@ -18,7 +18,7 @@ public class SbtestazureApplication {
         return "diu";
     }
 
-    @GetMapping("/airc")
+    @GetMapping("/resume")
     public String amIReallyCrazy() {
         return """
                 <!DOCTYPE html>
@@ -30,8 +30,10 @@ public class SbtestazureApplication {
                         font-family: Arial, sans-serif;
                         margin: 20px;
                       }
-                      h1 {
+                      h2 {
                         text-align: center;
+                        font-style: italic;
+                        text-decoration: underline;
                       }
                       table {
                         width: 100%;
@@ -61,7 +63,7 @@ public class SbtestazureApplication {
                         <td>skltfz@gmail.com</td>
                       </tr>
                     </table>
-                    <h1>CAREER OBJECTIVE</h1>
+                    <h2>CAREER OBJECTIVE</h2>
                     <p>
                       To secure a challenging position where I can effectively contribute my
                       skills as Technical Lead who possesses competent technical skills.
