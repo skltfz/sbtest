@@ -18,4 +18,8 @@ public class SbtestazureApplication {
         return "diu";
     }
 
+    @GetMapping("/message")
+    public String amIReallyCrazy() {
+        return "Yes you are";
+    }
 }
