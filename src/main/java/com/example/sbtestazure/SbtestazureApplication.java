@@ -18,7 +18,7 @@ public class SbtestazureApplication {
         return "diu";
     }
 
-    @GetMapping("/amIReallyCrazy")
+    @GetMapping("/airc")
     public String amIReallyCrazy() {
         return "Yes you are";
     }
