@@ -15,7 +15,7 @@ public class SbtestazureApplication {
 
     @GetMapping("/message")
     public String message() {
-        return "diu";
+        return "connect";
     }
 
     @GetMapping("/resume")
