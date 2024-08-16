@@ -86,23 +86,16 @@ public class SbtestazureApplication {
                     <h3>Hong Kong University of Science and Technology</h3>
                     <p>
                       Bachelor of Computer Engineering<br />
-                      September 2007 - June 2010
-                    </p>
-                    <h3>Final Year Project</h3>
-                    <p>
-                      Grade A<br />
-                      September 2005 - June 2007
-                    </p>
-                    <p>
-                      Semester 2, 2005 - 2006<br />
-                      Semester 1, 2006 - 2007<br />
-                      Semester 2, 2006 - 2007
+                      September 2007 - June 2010 <br />
+                       <b>Final Year Project: Grade A</b>
                     </p>
                     <h3>Hong Kong Baptist University (College of International Education)</h3>
                     <p>
                       Associate Degree of Computer Science<br />
-                      May 2022 – Now<br />
+                      May 2005 – June 2007 <br />
                       GPA: 3.25 / 4
+                      September 2005 - June 2007
+                    </p>
                     </p>
                     <p>
                       Remarks:<br />
