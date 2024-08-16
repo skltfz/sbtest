@@ -92,9 +92,8 @@ public class SbtestazureApplication {
                     <h3>Hong Kong Baptist University (College of International Education)</h3>
                     <p>
                       Associate Degree of Computer Science<br />
-                      May 2005 – June 2007 <br />
+                      September 2005 - June 2007 <br />
                       GPA: 3.25 / 4
-                      September 2005 - June 2007
                     </p>
                     </p>
                     <p>
